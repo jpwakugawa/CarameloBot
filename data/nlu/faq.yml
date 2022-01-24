@@ -17,6 +17,9 @@ nlu:
       - detalhes da doação
       - procedimento de doacao
       - resgatei e quero doar
+      - tenho 4 cachorros e quero doar
+      - quero doar meus 10 gatos
+      - doar meus gatos
 
   - intent: faq/ask_found_and_rescued
     examples: |
@@ -78,6 +81,7 @@ nlu:
       - Gostaria de fazer uma denuncia
       - Como faço uma denuncia de maus tratos ?  
       - Denuncia 
+      - como denunciar?
 
 ##### OUTROS
   - intent: faq/ask_collect

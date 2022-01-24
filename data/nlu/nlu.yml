@@ -23,6 +23,8 @@ nlu:
   - intent: thank_you_intent
     examples: |
       - obrigado
+      - bgd
+      - brigadão
       - valeu
       - é isso aí
       - muito obrigado
@@ -32,9 +34,14 @@ nlu:
 
   - intent: goodbye_intent
     examples: |
-      - bye
       - tchau
+      - tau
+      - thau
+      - tchauuuu
+      - tchau amigo
+      - tchauzinho
       - xau
+      - bye
       - adeus
       - flw
       - até mais
